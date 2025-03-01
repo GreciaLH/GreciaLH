@@ -1,3 +1,5 @@
+![Descripción de la imagen](images/readme-image.png)
+
 <div align="center">
 
 # ✨ La Alquimia Digital: Mi Viaje Profesional
