@@ -2,8 +2,6 @@
 
 <div align="center">
 
-# ✨ La Alquimia Digital: Mi Viaje Profesional
-
 ### Data Scientist en formación, analista de datos y desarrolladora de IA
 
 *Sumergiéndome en proyectos que aprovechan el poder de los datos, el análisis predictivo y el aprendizaje automático para obtener información valiosa y transformar datos en decisiones estratégicas y soluciones innovadoras.*
