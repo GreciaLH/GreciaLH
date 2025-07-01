@@ -1,4 +1,4 @@
-![Descripción de la imagen](images/readme-image2.png)
+![Descripción de la imagen](images/image-readme.png)
 
 <div>
 
