@@ -4,6 +4,7 @@
 
 
 **Hola, soy Grecia** 👋
+
 **Data & AI** | Ingeniería de datos · Machine Learning · Plataformas en la nube
 
 Combino una formación técnica intensiva en datos e inteligencia artificial con una
