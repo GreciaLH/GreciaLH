@@ -3,9 +3,9 @@
 <div>
 
 
-*Sumergiéndome en proyectos que aprovechan el poder de los datos, el análisis predictivo y el aprendizaje automático para obtener información valiosa y transformar datos en decisiones estratégicas y soluciones innovadoras.*
-
-Mi camino profesional combina un conjunto de habilidades personales y técnicas con una clara inclinación hacia la solución de problemas de negocio y sociales. Desde una visión transformadora pienso en cómo la IA puede ser una herramienta para abordar algunas de las cuestiones más acuciantes de nuestra era: economía, equidad, sostenibilidad medioambiental, educación, salud, etc. No es solo la tecnología en sí misma lo que me apasiona, sino cómo la puedo utilizar.
+**Hola, soy Grecia** 👋
+Perfil técnico centrado en IA aplicada y datos. Vengo de diez años explicando tecnología a clientes en retail (MediaMarkt, Samsung, Huawei, Google Pixel) y ahora construyo lo que antes vendía.
+Me interesa la parte donde la IA se conecta con un proceso real y alguien la usa para decidir algo — no la que se queda en el notebook.
 
 
 <!-- Tech Stack -->
