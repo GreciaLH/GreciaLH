@@ -5,7 +5,7 @@
 
 **Hola, soy Grecia** 👋
 Perfil técnico centrado en IA aplicada y datos. Vengo de diez años explicando tecnología a clientes en retail (MediaMarkt, Samsung, Huawei, Google Pixel) y ahora construyo lo que antes vendía.
-Me interesa la parte donde la IA se conecta con un proceso real y alguien la usa para decidir algo — no la que se queda en el notebook.
+Me interesa la parte donde la IA se conecta con un proceso real y alguien la usa para decidir algo  no la que se queda en el notebook.
 
 
 <!-- Tech Stack -->
