@@ -4,8 +4,12 @@
 
 
 **Hola, soy Grecia** 👋
-Perfil técnico centrado en IA aplicada y datos. Vengo de diez años explicando tecnología a clientes en retail (MediaMarkt, Samsung, Huawei, Google Pixel) y ahora construyo lo que antes vendía.
-Me interesa la parte donde la IA se conecta con un proceso real y alguien la usa para decidir algo  no la que se queda en el notebook.
+**Data & AI** | Ingeniería de datos · Machine Learning · Plataformas en la nube
+
+Combino una formación técnica intensiva en datos e inteligencia artificial con una
+trayectoria previa en tecnología cara al cliente. Me interesa todo el ciclo del dato:
+desde construir pipelines y arquitecturas fiables hasta aplicar ML para resolver
+problemas reales.
 
 
 <!-- Tech Stack -->
